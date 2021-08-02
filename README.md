@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cy6erninja&show_icons=true&theme=gotham" alt="cy6erninja" />
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=cy6erninja)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--
-**cy6erninja/cy6erninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
