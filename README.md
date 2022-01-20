@@ -23,6 +23,7 @@
 
 ## Projects
 [Boardroom Governance Telegram Bot](https://github.com/cy6erninja/boardroom-governance-telegram-bot)
+
 [Casper QR code](https://github.com/cy6erninja/casper-qr-code)
 
 
