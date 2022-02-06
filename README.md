@@ -12,33 +12,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-## Technologies
-
-### Learning
-...
-
-### Using
-...
-
-
 ## Projects
 [Boardroom Governance Telegram Bot](https://github.com/cy6erninja/boardroom-governance-telegram-bot)
 
 [Casper QR code](https://github.com/cy6erninja/casper-qr-code)
-
-
-## Project Ideas
-- AMM (Autocompounding)
--  Stablecoin
-- Lending / Borrowing
-- Oracle
-- NFT Marketplace
-- Game
-- DAO Governance
-- Storage /  Decentralized web hosting
-- Charity
-- Use IPFS
-- Staking to Validators
-- Account History(Analytics)
-- ERC20-Factory
-- Lottery
