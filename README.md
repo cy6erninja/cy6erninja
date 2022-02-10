@@ -18,6 +18,6 @@
 [Casper QR code](https://github.com/cy6erninja/casper-qr-code)
 
 ## Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-......
+
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
