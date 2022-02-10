@@ -19,5 +19,5 @@
 
 ## Blog Posts
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+https://hackernoon.com/how-to-gather-erc-20-tokens-to-one-wallet-on-polygon-with-web3js-170
 
