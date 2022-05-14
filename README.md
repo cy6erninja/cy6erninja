@@ -19,6 +19,8 @@
 
 ## Blog Posts
 
+[On Fake News, Quora](https://www.quora.com/How-do-I-tell-fake-news-from-real-news/answer/Cy6er-Ninja)
+
 [On Motivation, Quora](https://www.quora.com/What-are-the-best-tricks-to-keep-yourself-motivated/answer/Cy6er-Ninja)
 
 [How to gather ERC-20 tokens to one wallet on Polygon with web3js](https://hackernoon.com/how-to-gather-erc-20-tokens-to-one-wallet-on-polygon-with-web3js-170)
