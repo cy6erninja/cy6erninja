@@ -19,6 +19,8 @@
 
 ## Blog Posts
 
+[How do I tackle the recession? , Quora](https://www.quora.com/How-do-I-tackle-the-recession/answer/Cy6er-Ninja)
+
 [On Fake News, Quora](https://www.quora.com/How-do-I-tell-fake-news-from-real-news/answer/Cy6er-Ninja)
 
 [On Motivation, Quora](https://www.quora.com/What-are-the-best-tricks-to-keep-yourself-motivated/answer/Cy6er-Ninja)
