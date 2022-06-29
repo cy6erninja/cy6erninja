@@ -19,6 +19,8 @@
 
 ## Blog Posts
 
+[How and why pyramid schemes attract people?](https://medium.com/@cy6erninja/how-and-why-pyramid-schemes-attract-people-171b48b8a216)
+
 [How do I tackle the recession? , Quora](https://www.quora.com/How-do-I-tackle-the-recession/answer/Cy6er-Ninja)
 
 [On Fake News, Quora](https://www.quora.com/How-do-I-tell-fake-news-from-real-news/answer/Cy6er-Ninja)
