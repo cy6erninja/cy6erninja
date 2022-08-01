@@ -12,7 +12,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### 📱 Latest Tweets
+## 📱 Latest Tweets
 
 <!-- TWITTER:START -->
 <!-- TWITTER:END -->
