@@ -12,6 +12,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
+### 📱 Latest Tweets
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
+
 ## Projects
 [Boardroom Governance Telegram Bot](https://github.com/cy6erninja/boardroom-governance-telegram-bot)
 
