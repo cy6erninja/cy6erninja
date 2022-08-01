@@ -15,6 +15,12 @@
 ## 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [A bit of useful info that I learned last week on systemd services. 
+I wanted to run php-fpm from root user&lpar;which is bad&rpar; and in ...](https://twitter.com/Cy6erNinja/status/1553984867666464769)
+- [I like Vim, so I have decided to dedicate time daily to learn it bit by bit and eventually configure it in my own way and hopefu...](https://twitter.com/Cy6erNinja/status/1553947103436673024)
+- [I kinda like this approach of improving my life a bit every day. I guess I will try sharing some of this stuff here, will make s...](https://twitter.com/Cy6erNinja/status/1553750128175251456)
+- [RT @nazarpc: Laughed 😂 https://t.co/8aNbNTC2vU](https://twitter.com/Cy6erNinja/status/1553240217490178050)
+- [https://t.co/1kMz3Gb22H](https://twitter.com/Cy6erNinja/status/1546060670231228416)
 <!-- TWITTER:END -->
 
 ## Projects
