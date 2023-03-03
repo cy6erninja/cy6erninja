@@ -12,12 +12,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-## 📱 Latest Tweets
-
-<!-- TWITTER:START -->
-- [I kinda like this approach of improving my life a bit every day. I guess I will try sharing some of this stuff here, will make s...](https://twitter.com/Cy6erNinja/status/1553750128175251456)
-<!-- TWITTER:END -->
-
 ## Projects
 [Boardroom Governance Telegram Bot](https://github.com/cy6erninja/boardroom-governance-telegram-bot)
 
