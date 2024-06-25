@@ -1,11 +1,6 @@
 # Hi there 👋
 
 ## Languages
-
-### Learning: 
-
-
-### Languages:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
